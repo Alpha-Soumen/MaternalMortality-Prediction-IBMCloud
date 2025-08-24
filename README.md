@@ -106,7 +106,3 @@ Special thanks to:
 
 ---
 
-✅ This makes your README look polished and complete (with attribution, dataset credits, and your author info).
-
-👉 Do you want me to **bundle this into the full README.md file** (with all sections + acknowledgments) so you can directly upload it to GitHub?
-
