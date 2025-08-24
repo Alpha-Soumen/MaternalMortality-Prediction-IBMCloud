@@ -84,8 +84,15 @@ Key influencing indicators include:
 * IBM Cloud Docs – [Watsonx.ai AutoAI & Deployment](https://www.ibm.com/docs/en/watsonx/saas?topic=cloud-watsonxai-studio-plans)
 
 ---
-Got it 👍 — you want an **Acknowledgments section** at the end of your README (and maybe PPT/Report) similar to the sample you showed.
-Here’s how it would look for your **Maternal Health (SDG 3.1) Project**:
+## 📝 Jupyter Notebook
+
+For exploratory data analysis (EDA) and preprocessing, we used a Jupyter Notebook before uploading data into AutoAI.
+
+
+📓 **Jupyter Notebook**
+👉 Open Notebook 
+
+[SDG31_MaternalHealth_Model.pdf](https://github.com/user-attachments/files/21955911/SDG31_MaternalHealth_Model.pdf)
 
 ---
 
@@ -97,7 +104,7 @@ Special thanks to:
 
 * **AI Kosh (MoSPI – National Indicator Framework v3.1, 2021)** for providing the dataset.
 * **IBM Cloud Lite / Watsonx.ai AutoAI** for enabling automated machine learning, model deployment, and experimentation.
-* Edunet Foundation 
+* Edunet Foundation
 
 
 
